@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Resource Booking System - No Lombok
+# Resource Booking System
 
 ## MySQL
 CREATE DATABASE resource_booking_db;
